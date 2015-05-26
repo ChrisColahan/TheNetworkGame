@@ -1,9 +1,6 @@
 # TheNetworkGame
 The network game I came up with to teach some people I know about networking and some priciples of security.
 
-Instructions
-======
-
 Server Instructions
 ------
 Clone the git repo, then run the levels via the .sh files. For example:
